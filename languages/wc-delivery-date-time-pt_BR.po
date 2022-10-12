@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Delivery Date & Time for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-08 22:22+0000\n"
+"PO-Revision-Date: 2021-06-08 16:51+0000\n"
+"Last-Translator: Paulo Junior\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.4.6\n"
+"X-Domain: wc-delivery-date-time"
+
+#: wc-delivery-date-time.php:466
+msgid "(opcional)"
+msgstr "(opcional)"
+
+#: wc-delivery-date-time.php:478 wc-delivery-date-time.php:479
+#: wc-delivery-date-time.php:489 wc-delivery-date-time.php:490
+msgid "(required)"
+msgstr "(obrigatório)"
+
+#: wc-delivery-date-time.php:111
+msgid "<strong>Delivery Date</strong> is a required."
+msgstr "A <strong>Data da Entrega</strong> é obrigatória."
+
+#: wc-delivery-date-time.php:114
+msgid "<strong>Delivery Time</strong> is a required."
+msgstr "O <strong>Horário da Entrega</strong> é obrigatório."
+
+#. Author of the plugin
+msgid "carlosramosweb"
+msgstr "carlosramosweb"
+
+#: wc-delivery-date-time.php:898 wc-delivery-date-time.php:908
+msgid "Close"
+msgstr "Fechar"
+
+#: wc-delivery-date-time.php:386
+msgid "Closed Store"
+msgstr "Loja Fechada"
+
+#: wc-delivery-date-time.php:1008 wc-delivery-date-time.php:1028
+#: wc-delivery-date-time.php:1048 wc-delivery-date-time.php:1068
+#: wc-delivery-date-time.php:1088 wc-delivery-date-time.php:1108
+#: wc-delivery-date-time.php:1128
+msgid "Closing"
+msgstr "Fechando"
+
+#: wc-delivery-date-time.php:975
+msgid "Closing Hours Shop:"
+msgstr "Fechamento da loja:"
+
+#: wc-delivery-date-time.php:122
+msgid "Delivery"
+msgstr "Entrega"
+
+#: wc-delivery-date-time.php:478
+msgid "Delivery Date"
+msgstr "Data da Entrega"
+
+#. Name of the plugin
+#: wc-delivery-date-time.php:888
+msgid "Delivery Date & Time for Woocommerce"
+msgstr "Delivery Date & Time for Woocommerce"
+
+#: wc-delivery-date-time.php:82
+msgid "Delivery DateTime"
+msgstr "Delivery DateTime"
+
+#: wc-delivery-date-time.php:453
+msgid "Delivery Scheduling"
+msgstr "Agendamento da Entrega"
+
+#: wc-delivery-date-time.php:489
+msgid "Delivery Time"
+msgstr "Horário da Entrega"
+
+#: wc-delivery-date-time.php:1011 wc-delivery-date-time.php:1031
+#: wc-delivery-date-time.php:1051 wc-delivery-date-time.php:1071
+#: wc-delivery-date-time.php:1091 wc-delivery-date-time.php:1111
+#: wc-delivery-date-time.php:1131
+msgid "Disable Interval Geral"
+msgstr "Desativar Intervalo Geral"
+
+#: wc-delivery-date-time.php:465
+msgid ""
+"Do you want to Schedule Delivery Date and Time at Your Home or pickup at the "
+"store?"
+msgstr ""
+"Quer agendar a data e hora para entregar em sua casa ou quer retirar na loja?"
+
+#: wc-delivery-date-time.php:73
+msgid "Donation"
+msgstr "Doação"
+
+#: wc-delivery-date-time.php:73
+msgid "Donation Plugin"
+msgstr "Doação do PLugin"
+
+#: wc-delivery-date-time.php:933
+msgid "Enable plugin"
+msgstr "Habilitar plugin"
+
+#: wc-delivery-date-time.php:927
+msgid "Enable:"
+msgstr "Habilitar:"
+
+#. Description of the plugin
+msgid "Esse plugin é uma versão BETA."
+msgstr "Esse plugin é uma versão BETA."
+
+#: wc-delivery-date-time.php:964
+msgid "Finish Interval Shop:"
+msgstr "Termino do Intervalo:"
+
+#: wc-delivery-date-time.php:1098
+msgid "Friday"
+msgstr "Sexta-feira"
+
+#: wc-delivery-date-time.php:392
+msgid "Holiday Day"
+msgstr "Feriado"
+
+#: wc-delivery-date-time.php:1242
+msgid "Holiday Days:"
+msgstr "Dias de Feriados:"
+
+#: wc-delivery-date-time.php:147
+msgid "Home Delivery"
+msgstr "Entrega a Domicílio"
+
+#. Author URI of the plugin
+msgid "https://criacaocriativa.com"
+msgstr "https://criacaocriativa.com"
+
+#. URI of the plugin
+msgid "https://profiles.wordpress.org/carlosramosweb/#content-plugins"
+msgstr "https://profiles.wordpress.org/carlosramosweb/#content-plugins"
+
+#: wc-delivery-date-time.php:1005 wc-delivery-date-time.php:1025
+#: wc-delivery-date-time.php:1045 wc-delivery-date-time.php:1065
+#: wc-delivery-date-time.php:1085 wc-delivery-date-time.php:1105
+#: wc-delivery-date-time.php:1125
+msgid "Interval Finish"
+msgstr "Fim do intervalo"
+
+#: wc-delivery-date-time.php:415 wc-delivery-date-time.php:730
+msgid "Interval Shop"
+msgstr "Intervalo da Loja"
+
+#: wc-delivery-date-time.php:456
+msgid "Local Pickup Scheduling"
+msgstr "Agendamento para Retirada na Loja"
+
+#: wc-delivery-date-time.php:1018
+msgid "Monday"
+msgstr "Segunda-feira"
+
+#: wc-delivery-date-time.php:470
+msgid "Not"
+msgstr "Sem Agendamento"
+
+#: wc-delivery-date-time.php:1203
+msgid "Number of days available:"
+msgstr "Número de Dias Disponíveis:"
+
+#: wc-delivery-date-time.php:905
+msgid "Oops! We were unable to make the updates!"
+msgstr "Ups! Não foi possível fazer as atualizações!"
+
+#: wc-delivery-date-time.php:1000 wc-delivery-date-time.php:1020
+#: wc-delivery-date-time.php:1040 wc-delivery-date-time.php:1060
+#: wc-delivery-date-time.php:1080 wc-delivery-date-time.php:1100
+#: wc-delivery-date-time.php:1120
+msgid "Opening"
+msgstr "Abertura"
+
+#: wc-delivery-date-time.php:941
+msgid "Opening Hours Shop:"
+msgstr "Abertura da loja:"
+
+#: wc-delivery-date-time.php:889
+msgid ""
+"Order delivery, order date and time, order limit, order delivery date for "
+"WooCommerce"
+msgstr ""
+"Entrega do pedido, data e hora do pedido, limite do pedido, data de entrega "
+"do pedido para WooCommerce"
+
+#: wc-delivery-date-time.php:479
+msgid "Pickup Date"
+msgstr "Data da Retirada"
+
+#: wc-delivery-date-time.php:1172
+msgid "Pickup Method:"
+msgstr "Retirada na Loja"
+
+#: wc-delivery-date-time.php:490
+msgid "Pickup Time"
+msgstr "Horário da Retirada"
+
+#: wc-delivery-date-time.php:1259
+msgid "Salvar Alterações"
+msgstr "Salvar Alterações"
+
+#: wc-delivery-date-time.php:1118
+msgid "Saturday"
+msgstr "Sábado"
+
+#: wc-delivery-date-time.php:454
+msgid "Schedule Delivery"
+msgstr "Agendar a Entrega"
+
+#: wc-delivery-date-time.php:457
+msgid "Schedule Local Pickup"
+msgstr "Agendar Retirada"
+
+#: wc-delivery-date-time.php:149
+msgid "Scheduled Local Pickup"
+msgstr "Agendada Retirada"
+
+#: wc-delivery-date-time.php:459
+msgid "Scheduling"
+msgstr "Agendamento"
+
+#: wc-delivery-date-time.php:469 wc-delivery-date-time.php:481
+msgid "Select date"
+msgstr "Selecione a Data"
+
+#: wc-delivery-date-time.php:992
+msgid "Select Days Week and Hours:"
+msgstr "Selecione os Dias da Semana e Horários:"
+
+#: wc-delivery-date-time.php:1153 wc-delivery-date-time.php:1178
+msgid "Select Shipping"
+msgstr "Selecione um"
+
+#: wc-delivery-date-time.php:409 wc-delivery-date-time.php:492
+#: wc-delivery-date-time.php:724
+msgid "Select Time"
+msgstr "Selecione o Horário"
+
+#: wc-delivery-date-time.php:72
+msgid "Settings"
+msgstr "Configurações"
+
+#: wc-delivery-date-time.php:72
+msgid "Settings Plugin"
+msgstr "Configurações do PLugin"
+
+#: wc-delivery-date-time.php:1147
+msgid "Shipping Method:"
+msgstr "Método de Entrega:"
+
+#: wc-delivery-date-time.php:1003 wc-delivery-date-time.php:1023
+#: wc-delivery-date-time.php:1043 wc-delivery-date-time.php:1063
+#: wc-delivery-date-time.php:1083 wc-delivery-date-time.php:1103
+#: wc-delivery-date-time.php:1123
+msgid "Start Interval"
+msgstr "Inicial do Intervalo"
+
+#: wc-delivery-date-time.php:953
+msgid "Start Interval Shop:"
+msgstr "Iniciar do Intervalo:"
+
+#: wc-delivery-date-time.php:998
+msgid "Sunday"
+msgstr "Domigo"
+
+#: wc-delivery-date-time.php:1078
+msgid "Thursday"
+msgstr "Quinta-feira"
+
+#: wc-delivery-date-time.php:1225
+msgid "Time for Goods Separation:"
+msgstr "Tempo de Separação das Mercadorias:"
+
+#: wc-delivery-date-time.php:1214
+msgid "Time Interval Delivery:"
+msgstr "Tempo de Intervalo da Entrega:"
+
+#: wc-delivery-date-time.php:1038
+msgid "Tuesday"
+msgstr "Terça-feira"
+
+#: wc-delivery-date-time.php:421 wc-delivery-date-time.php:738
+msgid "Unavailable"
+msgstr "Indisponível"
+
+#: wc-delivery-date-time.php:895
+msgid "Updates made successfully!"
+msgstr "Atualizações feitas com sucesso!"
+
+#: wc-delivery-date-time.php:1058
+msgid "Wednesday"
+msgstr "Quarta-feira"
+
+#: wc-delivery-date-time.php:81
+msgid "Woocommerce Order Delivery"
+msgstr "Woocommerce Order Delivery"
